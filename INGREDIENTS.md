@@ -5,5 +5,6 @@
 ### 2. Unsweetened Cocoa Powder
 ![Image of Cocoa Powder](https://images-na.ssl-images-amazon.com/images/I/41AHe7T63HL._SX385_.jpg)
 ### 3. Butter & Oil
-![Image of butter and Oil](https://dairyfarmersofcanada.ca/sites/default/files/product_butter_thumb.jpg)(https://post.greatist.com/wp-content/uploads/sites/3/2020/02/324844_2200-1200x628.jpg)
+![Image of Butter](https://dairyfarmersofcanada.ca/sites/default/files/product_butter_thumb.jpg)
+![Image of Oil](https://post.greatist.com/wp-content/uploads/sites/3/2020/02/324844_2200-1200x628.jpg)
 ### 4. Buttermilk
