@@ -8,3 +8,4 @@
 ![Image of Butter](https://dairyfarmersofcanada.ca/sites/default/files/product_butter_thumb.jpg)
 ![Image of Oil](https://post.greatist.com/wp-content/uploads/sites/3/2020/02/324844_2200-1200x628.jpg)
 ### 4. Buttermilk
+![Image of Buttermilk](https://www.culinaryhill.com/wp-content/uploads/2019/03/How-to-Make-Buttermilk-Culinary-Hill-3.jpg)
